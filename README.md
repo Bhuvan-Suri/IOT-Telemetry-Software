@@ -15,3 +15,6 @@ This is the SDK that can be used by the client to contact the RESTful API, no ch
 Telemetry_Config-
 This is the config for the SDK that should be edited in accordance to the url and client id of the RESTFUL api and client respectively
 
+NOTE:
+the api only has Create and Read function (assumption being that IOT devices do not need to edit or delete any files after sending them to database) 
+
